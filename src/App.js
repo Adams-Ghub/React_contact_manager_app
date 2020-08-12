@@ -45,10 +45,10 @@ class App extends React.Component{
 
     render(){
 
-        const name=this.states.name
-        const phone=this.states.phone
-        const category=this.states.category
-        const contact=this.states.contact
+        // const name=this.states.name
+        // const phone=this.states.phone
+        // const category=this.states.category
+        // const contact=this.states.contact
         return(
             <div style={{display:"flex",flexDirection:"row"}}>
                 <div style={{width:"50vw"}}>
